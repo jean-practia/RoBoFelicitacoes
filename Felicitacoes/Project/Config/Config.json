@@ -1,0 +1,28 @@
+{
+  "Config": [{
+    "MaxAttempts": "3",
+    "FolderData": "Data",
+    "FolderOutput": "Output",
+    "FolderInput": "Input",
+    "FolderScreenshot": "ExceptionScreenshot",
+    "FolderLog": "Log",
+    "CollectAzureData":"False",
+    "EmailOffice365":"False",
+    "EmailFrom": "jaires@practia.global",
+    "EmailTo": "jaires@practia.global",
+    "EmailServer": "smtp.office365.com",
+    "EmailUse":"True",
+    "EmailPort": "587",
+    "NameBot": "Felicitações",
+    "id":"7",
+    "RobocorpCredentials": "False",
+    "DataEnvironment": "False",
+    "ServiceNameCredentialEnviroment": "",
+    "UserNameCredentialEnviroment": "",
+    "GrupoWhats":"Practia - News",
+    "pasta_template_aniversariantes":"C:\\Users\\USER\\Practia\\Practia Brasil - Endomarketing - Endomarketing\\@@\\Aniversarios\\",
+    "caminho_text":"C:\\Users\\USER\\Documents\\projeto\\felicitacoes\\Felicitacoes\\Project\\Data\\Input\\index.html",
+    "caminho_planilha":"C:\\Users\\USER\\Practia\\Practia Brasil - Endomarketing - Endomarketing\\Robo felicitação Lista de Contato Practia.xlsx",
+    "caminho_fotos":"C:\\Users\\USER\\Practia\\Practia Brasil - Endomarketing - Endomarketing\\Fotos Colaboradores\\Colaboradores Practia\\"
+  }]
+}

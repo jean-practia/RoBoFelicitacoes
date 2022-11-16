@@ -1,0 +1,44 @@
+{
+    "Campo_pesquisa": {
+        "confidence": 80.0,
+        "path": ".images\\campo_pesquisa-path.png",
+        "source": null,
+        "type": "image"
+    },
+    "campo_de_pesquisa": {
+        "confidence": 80.0,
+        "path": ".images\\campo_de_pesquisa-path.png",
+        "source": null,
+        "type": "image"
+    },
+    "campo_pesquisa": {
+        "confidence": 80.0,
+        "path": ".images\\campo_pesquisa-path.png",
+        "source": null,
+        "type": "image"
+    },
+    "fecha_whatsapp": {
+        "confidence": 80.0,
+        "path": ".images\\fecha_whatsapp-path.png",
+        "source": null,
+        "type": "image"
+    },
+    "fecha_whtas": {
+        "confidence": 80.0,
+        "path": ".images\\fecha_whtas-path.png",
+        "source": null,
+        "type": "image"
+    },
+    "nome_arquivo": {
+        "confidence": 80.0,
+        "path": ".images\\nome_arquivo-path.png",
+        "source": null,
+        "type": "image"
+    },
+    "whastAppLogin": {
+        "confidence": 81.0,
+        "path": ".images\\whastapplogin-path.png",
+        "source": null,
+        "type": "image"
+    }
+}
